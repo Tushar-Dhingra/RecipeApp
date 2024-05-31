@@ -20,4 +20,4 @@ mongoose.connect(
       }    
 )  
 
-app.listen(PORT, ()=>console.log("SERVER STARTED!"))
+app.listen(process.env.PORT, ()=>console.log("SERVER STARTED!"))
