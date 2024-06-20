@@ -1,7 +1,7 @@
-<h3 align="center">Finance Tracker</h3>
+<h3 align="center">Recipe App</h3>
 
   <p align="center">
-    Welcome to the Recipe Web App repository! This project aims to provide users with a platform to discover, save, and share recipes conveniently online.
+    Welcome to the Recipe Web App repository! This project aims to provide users with a platform to discover, save, and share recipes conveniently.
     <br />
     <a href="https://github.com/">View Demo</a>
     ·
@@ -184,5 +184,7 @@ Project Link: [https://github.com/Tushar-Dhingra/Finance-Tracker](https://github
 [Node.js]: 	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [Node-url]: https://nodejs.org/
 [Amazon.io]: https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[Amazon-url]: https://nodejs.org/
 [JSON.io]: https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink
+[JSON-url]: https://nodejs.org/
 
