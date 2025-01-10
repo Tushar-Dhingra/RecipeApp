@@ -3,47 +3,9 @@
   <p align="center">
     Welcome to the Recipe Web App repository! This project aims to provide users with a platform to discover, save, and share recipes conveniently.
     <br />
-    <a href="https://github.com/">View Demo</a>
-    ·
-    <a href="https://github.com/">Report Bug</a>
-    ·
-    <a href="https://github.com/">Request Feature</a>
   </p>
-</div>
-
-
 
 https://github.com/user-attachments/assets/8004eead-6e93-4007-a2c9-6159eaf18868
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -102,11 +64,6 @@ To get a local copy of the project up and running follow these steps:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -138,13 +95,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Tushar Dhingra - dhingraatushar@example.com
+Tushar Dhingra - tushardhingra512@example.com
 
 Project Link: [https://github.com/Tushar-Dhingra/Finance-Tracker](https://github.com/Tushar-Dhingra/Finance-Tracker)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
