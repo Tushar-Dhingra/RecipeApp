@@ -23,8 +23,6 @@ https://github.com/user-attachments/assets/8004eead-6e93-4007-a2c9-6159eaf18868
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![Javascript][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![TS][ts.js]][ts-url]
