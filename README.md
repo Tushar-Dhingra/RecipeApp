@@ -1,3 +1,5 @@
+<!-- ABOUT THE PROJECT -->
+## About The Project
 <h3 align="center">Recipe App</h3>
 
   <p align="center">
@@ -7,8 +9,7 @@
 
 https://github.com/user-attachments/assets/8004eead-6e93-4007-a2c9-6159eaf18868
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+
 
 ## Features
 
@@ -17,8 +18,6 @@ https://github.com/user-attachments/assets/8004eead-6e93-4007-a2c9-6159eaf18868
 - **User Authentication**: Secure login and registration system for saving favorite recipes and personalized features.
 - **Recipe Collections**: Create and manage collections of favorite recipes.
 - **Responsive Design**: User-friendly interface that adapts to various screen sizes (desktop, tablet, mobile).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -33,8 +32,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Node][Node.js]][Node-url]
 * [![Amazon][Amazon.io]][Amazon-url]
 * [![JSON][JSON.io]][Json-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -61,7 +58,6 @@ To get a local copy of the project up and running follow these steps:
     npm start
 
 6. Open your web browser and navigate to `http://localhost:3000` to see the app running locally.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
@@ -79,18 +75,12 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -99,7 +89,6 @@ Tushar Dhingra - tushardhingra512@example.com
 
 Project Link: [https://github.com/Tushar-Dhingra/Finance-Tracker](https://github.com/Tushar-Dhingra/Finance-Tracker)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -113,7 +102,6 @@ Project Link: [https://github.com/Tushar-Dhingra/Finance-Tracker](https://github
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
